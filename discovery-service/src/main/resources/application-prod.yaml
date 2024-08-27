@@ -2,3 +2,6 @@ app:
   name: discovery-service
   version: 1.0.0
   description: Discovery-Service
+
+server:
+  port: 8761
